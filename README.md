@@ -2,7 +2,7 @@
 
 I am a continuously progressing Python programmer with a background in construction. I am keenly interested in web development and particularly enjoy working with Django. I enjoy solving problems, organizing code, and the sound of a satisfying keyboard.
 
-### Languages, technologies and tools
+### Languages, technologies and tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -16,11 +16,11 @@ I am a continuously progressing Python programmer with a background in construct
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-### Currently learning
+### Currently learning:
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Let's connect
+### Let's connect:
 * LinkedIn: www.linkedin.com/in/kamila-kokoszka
 * E-mail: kokoszka.kamila@outlook.com
 
