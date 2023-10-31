@@ -1,6 +1,6 @@
 ## Hi, I’m Kamila :sunflower:
 
-I am a continuously progressing Python programmer with a background in construction. I am keenly interested in web development and particularly enjoy working with Django. I enjoy solving problems, organizing code, and the sound of a satisfying keyboard.
+I am a self-driven Python programmer with a background in construction. I am keenly interested in web development and particularly enjoy working with Django. I enjoy solving problems, organizing code, and the sound of a satisfying keyboard.
 
 ### Languages, technologies and tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
